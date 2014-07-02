@@ -1,2 +1,2 @@
-Breaker
+Breaker 基于最大正向匹配中文分词程序(Java 8版)
 =======
