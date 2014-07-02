@@ -6,5 +6,5 @@ Breaker基于正向最大匹配中文分词程序(Java8版)
 *   主要的类：com.pwc.dictionary.Dictionary, com.pwc.dictionary.Trie, com.pwc.dictionary.Node
 
 ####分词算法--正向最大匹配
-当词典构建完毕，算法从语句中找出词典中存在的最长的词语。未消歧，但算法速度块，文本分类器中应用做特征的抽取，分类效果不错。
+当词典构建完毕，算法从语句中找出词典中存在的最长的词语。未消歧，但算法速度块，文本分类器中做特征抽取，分类效果不错。
 *    算法的类：com.pwc.breaker.Breaker
